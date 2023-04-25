@@ -1,0 +1,9 @@
+<!DOCTYPE FilterScript>
+<FilterScript>
+ <filter name="Per Vertex Normal Function">
+  <Param type="RichString" value="-nx" name="x"/>
+  <Param type="RichString" value="-ny" name="y"/>
+  <Param type="RichString" value="-nz" name="z"/>
+ </filter>
+ <filter name="Freeze Current Matrix"/>
+</FilterScript>
